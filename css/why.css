@@ -1,0 +1,55 @@
+.why{
+    width: 100%;
+    padding: 1rem 2rem;
+    margin-top: 3rem;
+    background-color: rgba(119, 192, 252, 0.74);
+}
+.icono{
+    width: 100%;
+    padding: 1rem 2rem;
+    margin-top: 1rem;
+    flex-direction: row;
+    display: flex;
+    background-color: rgba(252, 119, 119, 0.74);
+}
+.registered{
+    width: 50%;
+    height: 30%;
+    background-color: aquamarine;
+}
+.ride {
+    width: 50%;
+    height: 30%;
+    float: right;
+    background-color: aquamarine;
+}
+.iconos{
+    width: 100%;
+    padding: 1rem 2rem;
+    margin-top: 1rem;
+    flex-direction: row;
+    display: flex;
+    background-color: rgba(252, 119, 119, 0.74);
+}
+.experienced{
+    width: 50%;
+    height: 30%;
+    background-color: aquamarine;
+}
+.ready {
+    width: 50%;
+    height: 30%;
+    float: right;
+    background-color: aquamarine;
+}
+.carro_azul{
+    width: 100%;
+    height: auto;
+}
+.now{
+    width: 60%;
+    height: 70%;
+    background-color: #ACEFF8;
+}
+    
+   

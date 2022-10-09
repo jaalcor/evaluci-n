@@ -1,0 +1,17 @@
+.adventure{
+    width: 100%;
+    padding: 1rem 2rem;
+    margin-top: 3rem;
+    background-color: rgba(201, 252, 119, 0.74);
+
+}
+.carro{
+    width: 100%;
+    height: auto;
+}
+.MTS{
+    width: 100%;
+    padding: 1rem 2rem;
+    margin-top: 1rem;
+    background-color: rgba(252, 243, 119, 0.74);
+}

@@ -1,0 +1,12 @@
+.banner {
+    width: 100%;
+    height: 45rem;
+    background-image: url(https://p4.wallpaperbetter.com/wallpaper/322/801/269/mini-cooper-car-vehicle-desert-wallpaper-preview.jpg);
+    background-position: center;
+
+    position: relative;
+}
+.Future{
+    width: 100%;
+    background-color: aquamarine;
+}

@@ -1,0 +1,11 @@
+.vols  {
+    width: 100%;
+    padding: 1rem 2rem;
+    margin-top: 1rem;
+    background-color: rgba(210, 217, 223, 0.74);
+}
+.cuadro {
+    width: 100%;
+    padding: 1rem;
+    background-color: beige;
+}

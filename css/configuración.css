@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html{
+    width: 100%!important;
+    overflow-y:hidden! important ;
+    height: 100%!important;
+    font-family:'Quicksand' , sans-serif;
+    font-size: 10px;
+}
+:root{
+    --color1: rgb(250, 136, 95);
+    --color2: #ACEFF8;
+    --color3: #E5FBFD;
+    --color4: #FDF7E7;
+    --color5: #F1FFEF;
+    --color6: #FAECE1;
+    --color7: #E66745;
+    --color6: #E4C6C4;
+    --color7: #280E07;
+    --color8: #928578;
+}
+

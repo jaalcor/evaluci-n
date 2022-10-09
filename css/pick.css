@@ -1,0 +1,46 @@
+.pick  {
+    width: 100%;
+    padding: 1rem 2rem;
+    margin-top: 3rem;
+
+}
+.city{
+    width: 100%;
+    padding: 1rem 2rem;
+    margin-top: 1rem;
+    flex-direction: column;
+    display: flex;
+    background-color: #e2c5f5;
+}
+.rov{
+    width: 40%;
+    padding: 2rem;
+}
+.parrafo{
+    width: 100%;
+    padding: 2rem;
+}
+.boton{
+    width: 40%;
+    padding: 3rem;
+}
+.old{
+    width: 100%;
+    padding: 1rem 2rem;
+    margin-top: 1rem;
+    flex-direction: column;
+    display: flex;
+    background-color: #FAECE1;
+}
+.cool{
+    width: 40%;
+    padding: 2rem;
+}
+.parrafo_2{
+    width: 100%;
+    padding: 2rem;
+}
+.botón{
+    width: 40%;
+    padding: 3rem;
+}

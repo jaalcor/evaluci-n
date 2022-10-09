@@ -1,0 +1,40 @@
+.Future{
+    width: 100%;
+    padding: 1rem 2rem;
+    background-color: rgb(199, 126, 126);
+
+}
+.home{
+    width: 100%;
+    height: auto;
+    background-color:#E5FBFD ;
+    margin-top: 3rem;
+}
+.casa{
+    width: 20%;
+    height: auto;
+    margin-top: 1rem ;
+  
+} 
+.location{
+    width: 100%;
+    height: auto;
+    background-color:#FDF7E7 ;
+    margin-top: 3rem;
+}
+.ubicacion{
+    width: 20%;
+    height: auto;
+    margin-top: 1rem ;
+}
+.petrol{
+    width: 100%;
+    height: auto;
+    background-color:#F1FFEF ;
+    margin-top: 3rem;
+}
+.icono{
+    width: 20%;
+    height: auto;
+    margin-top: 1rem ;
+}
