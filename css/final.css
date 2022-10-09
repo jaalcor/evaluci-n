@@ -1,0 +1,19 @@
+.final{
+    width: 100%;
+    padding: 1rem 2rem;
+    margin-top: 1rem;
+    background-color: rgba(255, 255, 255, 0.774);
+}
+.caja_celeste{
+    width: 100%;
+    padding: 1rem;
+    margin-top: 1rem;
+    flex-direction: column;
+    display: flex;
+    background-color: #E5FBFD;
+}
+.suscribe {
+    width: 100%;
+    padding: 3rem 55rem;
+    background-color: orange;
+}

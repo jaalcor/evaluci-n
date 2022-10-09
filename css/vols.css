@@ -4,8 +4,12 @@
     margin-top: 1rem;
     background-color: rgba(210, 217, 223, 0.74);
 }
-.cuadro {
+.cuadro  {
     width: 100%;
     padding: 1rem;
     background-color: beige;
+}
+.carro_rosa{
+    width: 100%;
+    height: auto;
 }
