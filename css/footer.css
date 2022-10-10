@@ -1,0 +1,46 @@
+.footer {
+    width: 100%;
+    padding: 1rem 2rem;
+    margin-top: 1rem;
+    background-color: #E4C6C4;
+}
+.company  {
+    width: 100%;
+    padding: 1rem;
+    margin-top: 1rem;
+    flex-direction: row;
+    display: flex;
+}
+.beans{
+    width: auto;
+    padding: 0.75rem;
+   
+}
+.us  {
+    width: auto;
+    padding: 0.75rem;
+    float: right;
+}
+.privacy{
+    width: auto;
+    padding: 0.75rem;
+    float: right;
+}
+.social_media{
+    width: 100%;
+    padding: 1rem;
+    flex-direction: row;
+    display: flex;
+}
+.facebook{
+    width: auto;
+    padding: 0.75rem;
+}
+.aliens{
+    width: auto;
+    padding: 0.75rem;
+}
+.mail{
+    width: auto;
+    padding: 0.75rem;
+}

@@ -9,15 +9,15 @@ html{
     font-size: 10px;
 }
 :root{
-    --color1: rgb(250, 136, 95);
+    --color1: #fa885f;
     --color2: #ACEFF8;
     --color3: #E5FBFD;
     --color4: #FDF7E7;
     --color5: #F1FFEF;
     --color6: #FAECE1;
     --color7: #E66745;
-    --color6: #E4C6C4;
-    --color7: #280E07;
-    --color8: #928578;
+    --color8: #E4C6C4;
+    --color9: #280E07;
+    --color10: #928578;
 }
 

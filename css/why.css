@@ -2,26 +2,33 @@
     width: 100%;
     padding: 1rem 2rem;
     margin-top: 3rem;
-    background-color: rgba(119, 192, 252, 0.74);
+   
 }
 .icono{
     width: 100%;
     padding: 1rem 2rem;
-    margin-top: 1rem;
+    margin-top: 2rem;
     flex-direction: row;
     display: flex;
-    background-color: rgba(252, 119, 119, 0.74);
 }
-.registered{
+.registered {
     width: 50%;
     height: 30%;
-    background-color: aquamarine;
+}
+.customers{
+    width: 40%;
+    height: 20%;
+   
 }
 .ride {
-    width: 50%;
-    height: 30%;
+    width: 40%;
+    height: 20%;
     float: right;
-    background-color: aquamarine;
+}
+.place{
+    width: 50%;
+    height: 50%;
+   
 }
 .iconos{
     width: 100%;
@@ -29,26 +36,35 @@
     margin-top: 1rem;
     flex-direction: row;
     display: flex;
-    background-color: rgba(252, 119, 119, 0.74);
 }
 .experienced{
     width: 50%;
     height: 30%;
-    background-color: aquamarine;
+}
+.care{
+    width: 50%;
+    height: 30%;
 }
 .ready {
     width: 50%;
     height: 30%;
     float: right;
-    background-color: aquamarine;
 }
-.carro_azul{
+.medical{
+    width: 30%;
+    height: 10%;
+}
+.carro_azul {
     width: 100%;
     height: auto;
 }
+.hrf{
+    margin-top: 2rem;
+}
 .now{
-    width: 60%;
-    height: 70%;
+    width: auto;
+    padding: 1rem;
+    border-radius: 10%;
     background-color: #ACEFF8;
 }
     

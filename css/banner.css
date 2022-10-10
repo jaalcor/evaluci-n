@@ -6,7 +6,32 @@
 
     position: relative;
 }
+.today{
+    width: 100%;
+    padding: 1rem;
+    margin-top: 1rem;
+    flex-direction: column;
+    display: flex;
+}
+.get{
+    text-align: center;
+}
+.more{
+    text-align: center;
+}
 .Future{
     width: 100%;
-    background-color: aquamarine;
+}
+.experience{
+    width: 100%;
+    padding: 1rem;
+    margin-top: 1rem;
+    flex-direction: row;
+    display: flex;
+}
+.parrafo_8{
+    padding: 2rem;
+}
+.experiencia{
+    padding: 10rem;
 }

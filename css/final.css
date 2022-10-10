@@ -1,4 +1,4 @@
-.final{
+.final  {
     width: 100%;
     padding: 1rem 2rem;
     margin-top: 1rem;
@@ -14,6 +14,40 @@
 }
 .suscribe {
     width: 100%;
-    padding: 3rem 55rem;
-    background-color: orange;
+    text-align: center;
+    padding: 1rem 8rem 1rem 8rem;
+}
+.address {
+    width: 100%;
+    
+    padding: 1rem 8rem 1rem 8rem;
+   
+}
+.pie{
+    width: 100%;
+    margin-top: 1rem;
+    flex-direction: row;
+    display: flex;
+   
+}
+.content{
+    width: 40%% ;
+}
+.humo{
+    width: 70%;
+    height: auto;
+    padding: 3rem;
+}
+.boton_6 {
+  width: 60%;
+ 
+}
+.boton_7{
+width: 15%;
+height: 50%;
+margin-top: auto;
+padding: 1rem 2rem ;
+float: right;
+color: var(--color2);
+background-color: #fa885f;
 }
